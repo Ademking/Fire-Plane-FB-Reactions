@@ -3,7 +3,7 @@ For Those asking How to Do Plane/Fire Reaction :
 
 1. Create a new Bookmark
 
-2. 
+2. Fill the bookmark :
 
 • Name : Anything you want (example : FB Reactions)
 
