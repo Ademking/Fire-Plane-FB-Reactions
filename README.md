@@ -24,3 +24,5 @@ let hookScript=document.createElement("style");hookScript.type="text/css";hookSc
 4. TADAAAA... That's all 😉
 
 Star this if you like it ⭐
+
+![](https://i.imgur.com/gtVE2rx.png)
