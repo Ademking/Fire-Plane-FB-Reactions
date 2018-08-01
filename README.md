@@ -91,6 +91,6 @@ let hookScript=document.createElement("style");hookScript.type="text/css";hookSc
 
 ------
 
-Press That Star Button if you like it ⭐
+# Press That Star Button if you like it ⭐
 
 ![](https://i.imgur.com/gtVE2rx.png)
